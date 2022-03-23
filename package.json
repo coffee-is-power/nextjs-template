@@ -1,0 +1,21 @@
+{
+  "name": "nextjs-template",
+  "version": "1.0.0",
+  "description": "A simple and lightweight nextjs template to scaffold any kind of application",
+  "main": "index.js",
+  "repository": "https://github.com/tiagodinis33/nextjs-template",
+  "author": "Tiago Dinis <tiagodinis33@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@types/node": "^17.0.23",
+    "@types/react": "^17.0.42",
+    "@types/react-dom": "^17.0.14",
+    "typescript": "^4.6.2"
+  },
+  "dependencies": {
+    "next": "^12.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
